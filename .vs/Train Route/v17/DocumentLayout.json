@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dima\\source\\repos\\Train Route\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD613729-E8B0-4917-8E9B-C7A201C9ABE3}|Train Route.DAL\\Train Route.DAL.csproj|c:\\users\\dima\\source\\repos\\train route\\train route.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD613729-E8B0-4917-8E9B-C7A201C9ABE3}|Train Route.DAL\\Train Route.DAL.csproj|solutionrelative:train route.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C9171A-E72C-4E2B-9E22-01ABA9087B9E}|Train Route\\Train Route.csproj|c:\\users\\dima\\source\\repos\\train route\\train route\\train route.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8C9171A-E72C-4E2B-9E22-01ABA9087B9E}|Train Route\\Train Route.csproj|solutionrelative:train route\\train route.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C9171A-E72C-4E2B-9E22-01ABA9087B9E}|Train Route\\Train Route.csproj|c:\\users\\dima\\source\\repos\\train route\\train route\\servise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C9171A-E72C-4E2B-9E22-01ABA9087B9E}|Train Route\\Train Route.csproj|solutionrelative:train route\\servise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C84DF0-AC63-46B3-A7E6-81960565751C}|Models\\Models.csproj|c:\\users\\dima\\source\\repos\\train route\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C84DF0-AC63-46B3-A7E6-81960565751C}|Models\\Models.csproj|solutionrelative:models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C84DF0-AC63-46B3-A7E6-81960565751C}|Models\\Models.csproj|c:\\users\\dima\\source\\repos\\train route\\models\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C84DF0-AC63-46B3-A7E6-81960565751C}|Models\\Models.csproj|solutionrelative:models\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C9171A-E72C-4E2B-9E22-01ABA9087B9E}|Train Route\\Train Route.csproj|c:\\users\\dima\\source\\repos\\train route\\train route\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C9171A-E72C-4E2B-9E22-01ABA9087B9E}|Train Route\\Train Route.csproj|solutionrelative:train route\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD613729-E8B0-4917-8E9B-C7A201C9ABE3}|Train Route.DAL\\Train Route.DAL.csproj|c:\\users\\dima\\source\\repos\\train route\\train route.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD613729-E8B0-4917-8E9B-C7A201C9ABE3}|Train Route.DAL\\Train Route.DAL.csproj|solutionrelative:train route.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADA9670-EBD0-4558-B532-76C8553D8321}|DTOS\\DTOS.csproj|c:\\users\\dima\\source\\repos\\train route\\dtos\\interdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADA9670-EBD0-4558-B532-76C8553D8321}|DTOS\\DTOS.csproj|solutionrelative:dtos\\interdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C84DF0-AC63-46B3-A7E6-81960565751C}|Models\\Models.csproj|c:\\users\\dima\\source\\repos\\train route\\models\\routestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C84DF0-AC63-46B3-A7E6-81960565751C}|Models\\Models.csproj|solutionrelative:models\\routestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\AppData\\Local\\Temp\\fmwdyrmm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\AppData\\Local\\Temp\\jj2rh3j5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\Desktop\\SQL QUERYS\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADA9670-EBD0-4558-B532-76C8553D8321}|DTOS\\DTOS.csproj|c:\\users\\dima\\source\\repos\\train route\\dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3ADA9670-EBD0-4558-B532-76C8553D8321}|DTOS\\DTOS.csproj|solutionrelative:dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\Desktop\\SQL QUERYS\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\AppData\\Local\\Temp\\jj2rh3j5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\AppData\\Local\\Temp\\jj2rh3j5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\AppData\\Local\\Temp\\fmwdyrmm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\AppData\\Local\\Temp\\fmwdyrmm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route.DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Train Route.DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route.DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Train Route.DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:34:45.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\Dima\\AppData\\Local\\Temp\\fmwdyrmm..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\fmwdyrmm..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-01T11:12:07.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Dima\\AppData\\Local\\Temp\\jj2rh3j5..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\jj2rh3j5..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-01T11:11:35.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Train Route.csproj",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route\\Train Route.csproj",
+              "RelativeDocumentMoniker": "Train Route\\Train Route.csproj",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route\\Train Route.csproj",
+              "RelativeToolTip": "Train Route\\Train Route.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-31T16:15:37.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servise.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route\\Servise.cs",
+              "RelativeDocumentMoniker": "Train Route\\Servise.cs",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route\\Servise.cs",
+              "RelativeToolTip": "Train Route\\Servise.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T16:04:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteStation.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\Models\\RouteStation.cs",
+              "RelativeDocumentMoniker": "Models\\RouteStation.cs",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\Models\\RouteStation.cs",
+              "RelativeToolTip": "Models\\RouteStation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:46:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DTOS.csproj",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\DTOS\\DTOS.csproj",
+              "RelativeDocumentMoniker": "DTOS\\DTOS.csproj",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\DTOS\\DTOS.csproj",
+              "RelativeToolTip": "DTOS\\DTOS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-31T15:45:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "Models\\Station.cs",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\Models\\Station.cs",
+              "RelativeToolTip": "Models\\Station.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:37:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterData.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\DTOS\\InterData.cs",
+              "RelativeDocumentMoniker": "DTOS\\InterData.cs",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\DTOS\\InterData.cs",
+              "RelativeToolTip": "DTOS\\InterData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:31:20.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\Models\\Routes.cs",
+              "RelativeDocumentMoniker": "Models\\Routes.cs",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\Models\\Routes.cs",
+              "RelativeToolTip": "Models\\Routes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:28:48.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\Dima\\Desktop\\SQL QUERYS\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\SQL QUERYS\\SQLQuery3.sql",
+              "ToolTip": "SQLQuery3.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-30T19:49:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route.DAL\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Train Route.DAL\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route.DAL\\Repository\\Repository.cs",
+              "RelativeToolTip": "Train Route.DAL\\Repository\\Repository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAE0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:23:31.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route\\Main.cs",
+              "RelativeDocumentMoniker": "Train Route\\Main.cs",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\Train Route\\Train Route\\Main.cs",
+              "RelativeToolTip": "Train Route\\Main.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:17:48.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
